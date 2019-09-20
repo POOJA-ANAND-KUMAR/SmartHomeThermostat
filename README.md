@@ -1,2 +1,2 @@
-# SmartHomeThermostata
-A low budget home thermostat using arduino framework
+# SmartHomeThermostat
+A low budget home thermostat using arduino framework.
